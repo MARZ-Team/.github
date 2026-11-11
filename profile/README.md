@@ -48,6 +48,7 @@ Projects table (Lamine marked Completed):
   <li> <b>Omar Touil</b> <a href="https://github.com/omar-2004">@omar-2004</a></li>
   <li> <b>Ramez Hajri</b> <a href="https://github.com/ramezz22">@ramezz22</a></li>
 </ul>
+
 ## 💬 Get in touch
 
 Have an idea, a question or a project for us? Start a conversation in
