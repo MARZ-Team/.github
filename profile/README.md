@@ -18,6 +18,7 @@ MARZ is a small team of developers working between **Italy 🇮🇹 and Tunisia 
 We turn everyday problems into simple, fast and secure software: built for phones first,
 available in **4 languages**, and easy for non-technical owners to run on their own.
 
+## 🚀 Projects
 Projects table (Lamine marked Completed):
 | Project | What it is | Status |
 |---|---|---|
